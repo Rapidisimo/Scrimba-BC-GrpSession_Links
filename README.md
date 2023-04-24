@@ -27,5 +27,5 @@ https://www.htmlallthethings.com/podcast
 ## Terminal with AI assistance
 https://www.warp.dev/
 
-## HTML Cheat Sheat
+## JavaScript Cheat Sheat
 https://htmlcheatsheet.com/js/

@@ -1,8 +1,8 @@
-# Scrimba-BC-GrpSession_Links 4-24-23
+# Scrimba-BC-GrpSession_Links
 Links shared by the group that they found to be helpful resources.
 
 
-# Links
+# Links for 4-24-23
 
 ## React Documentary 
 https://youtu.be/8pDqJVdNa44
@@ -29,3 +29,12 @@ https://www.warp.dev/
 
 ## JavaScript Cheat Sheat
 https://htmlcheatsheet.com/js/
+
+
+# Links for 5-01-23
+
+## Questions to ask in an interview
+https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/
+
+## Search engine for developers
+https://www.phind.com/

@@ -1,5 +1,5 @@
 # Scrimba-BC-GrpSession_Links
-Links shared by the group that they found to be helpful resources.
+Resources shared by the Monday 10AM EST group which they found to be helpful.
 
 
 # Links for 4-24-23
